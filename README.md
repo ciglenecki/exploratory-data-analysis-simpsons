@@ -1,4 +1,5 @@
 [full_report.pdf](https://github.com/matejciglenecki/exploratory_data_analysis_simpsons/blob/master/full_report.pdf) je kompletan izvještaj popraćen vizualizacijama i boljim formatiranjem.
+
 Ovaj tekst sadrži samo tekstualne informacije izvještaja.
 
 ![](https://dhilfl7skz7cz.cloudfront.net/2017/06/1.png)
